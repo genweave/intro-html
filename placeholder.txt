@@ -1,0 +1,38 @@
+// Placeholder text and colours
+
+Colours
+---
+Green: #21b2a6
+Black: #2e3842
+
+Header
+---
+Picture [img] 
+Barry Brown [h1]
+Web Designer [h2]
+
+About Me
+---
+I love to create works that's fun and creative. I get my inspiration from nature and objects around me. I enjoy teaching too!
+
+Skills
+---
+Here are some coding languages I hope to master, starting with:
+1. HTML
+2. CSS
+3. JavaScript
+
+Hobbies
+---
+I enjoy the following in my spare time:
+- Watching movies
+- Reading books
+- Listening to music
+
+Footer
+---
+Made with love
+- Facebook icon
+- Twitter icon
+- LinkedIn icon
+- Instagram icon
